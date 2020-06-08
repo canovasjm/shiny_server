@@ -31,8 +31,3 @@ yum install -y --nogpgcheck shiny-server-1.5.13.944-x86_64.rpm
 
 # restart shiny server
 systemctl restart shiny-server
-
-
-
-
-
