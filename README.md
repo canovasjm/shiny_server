@@ -5,5 +5,5 @@ Shell scripts for installing shiny server on:
 * Ubuntu 20.04 LTS Focal Fossa.
 
 # Run   
-`sudo bash shiny_server_centos.sh`
+`sudo bash shiny_server_centos.sh`  
 `sudo bash shiny_server_ubuntu.sh`
